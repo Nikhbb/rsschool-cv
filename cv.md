@@ -27,3 +27,8 @@ function createPhoneNumber(numbers){
   });
 }
 `
+## PROJECTS
+**CV in Markdown**
+Developed a personal resume using Markdown to showcase skills in creating clean, semantic, and well-structured documentation. Focused on clear formatting, consistent style, and easy readability across different Markdown viewers. Utilized Markdown syntax to structure content including headings, lists and links.
+Managed version control through Git and hosted the project on GitHub for easy sharing and collaboration. Demonstrated ability to work with plain text formats, facilitating easy updates and portability. Gained experience in documenting professional information in a concise and organized manner.
+[GitHub Repository](https://github.com/Nikhbb/rsschool-cv)
