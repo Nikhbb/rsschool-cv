@@ -38,3 +38,7 @@ Managed version control through Git and hosted the project on GitHub for easy sh
 **RS School** - Frontend Developer Course
 * Learning frontend development fundamentals: HTML, CSS, JavaScript
 * Building hands-on projects to develop practical skills
+
+## ADDITIONAL INFORMATION
+* English: Intermediate
+* Ready to collaborate and continuously improve skills
