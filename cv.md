@@ -1,4 +1,6 @@
-![alt text](image.png) # Valeriy NOVIKOV
+![alt text](image.png) 
+# Valeriy NOVIKOV
+
 **Email:** [nik.hbb@gmail.com](mailto:nik.hbb@gmail.com)  
 **Phone:** +12 (123) 123-45-67  
 **GitHub:** [github.com/Nikhbb](https://github.com/Nikhbb)  
