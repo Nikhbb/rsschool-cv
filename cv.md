@@ -1,9 +1,8 @@
-# Valeriy NOVIKOV
-
-**Email:** [nik.hbb@gmail.com](mailto:nik.hbb@gmail.com)  
-**Phone:** +12 (123) 123-45-67  
-**GitHub:** [github.com/Nikhbb](https://github.com/Nikhbb)  
-**Discord:** VNovikov (vnovikov0990_96390)  
+| ![alt text](image.png) | # Valeriy NOVIKOV  
+                         **Email:** [nik.hbb@gmail.com](mailto:nik.hbb@gmail.com)  
+                         **Phone:** +12 (123) 123-45-67  
+                         **GitHub:** [github.com/Nikhbb](https://github.com/Nikhbb)  
+                         **Discord:** VNovikov (vnovikov0990_96390)  |
 
 
 I am a beginner **Frontend Developer** currently studying at [RS School](https://rs.school/courses). I have no professional development experience yet, but I am a goal-oriented and motivated person who learns quickly and always finishes what I start. 
