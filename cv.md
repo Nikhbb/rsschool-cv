@@ -18,7 +18,7 @@ My goal is to become a sought-after Frontend Developer, capable of building user
 * Willingness to learn and work in a team
 
 ## CODE EXAMPLE
-`
+```
 function createPhoneNumber(numbers){
    it("Fixed tests", () => {
     assert.strictEqual(createPhoneNumber([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]), "(123) 456-7890");
@@ -26,7 +26,7 @@ function createPhoneNumber(numbers){
     assert.strictEqual(createPhoneNumber([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]), "(123) 456-7890");
   });
 }
-`
+```
 ## PROJECTS
 **CV in Markdown**
 Developed a personal resume using Markdown to showcase skills in creating clean, semantic, and well-structured documentation. Focused on clear formatting, consistent style, and easy readability across different Markdown viewers. Utilized Markdown syntax to structure content including headings, lists and links.
