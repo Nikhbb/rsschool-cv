@@ -16,3 +16,14 @@ My goal is to become a sought-after Frontend Developer, capable of building user
 * Experience with VS Code and Chrome DevTools
 * Basic command line knowledge
 * Willingness to learn and work in a team
+
+## CODE EXAMPLE
+`
+function createPhoneNumber(numbers){
+   it("Fixed tests", () => {
+    assert.strictEqual(createPhoneNumber([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]), "(123) 456-7890");
+    assert.strictEqual(createPhoneNumber([1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), "(111) 111-1111");
+    assert.strictEqual(createPhoneNumber([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]), "(123) 456-7890");
+  });
+}
+`
