@@ -38,19 +38,21 @@ body {
     background: #555;
 }
 
-.photo{
+.photo {
     display: flex;
-    align-items: center; /* выравнивание по вертикали */
-    gap: 60px; /* расстояние между фото и текстом */
+    align-items: center;
+    /* выравнивание по вертикали */
+    gap: 60px;
+    /* расстояние между фото и текстом */
     margin-top: 20px;
 }
 
-.photo img{
+.photo img {
     height: 150px;
     display: block;
 }
 
-.photo .text{
+.photo .text {
     max-width: 400px;
 }
 
@@ -67,7 +69,12 @@ section {
     font-size: 18px;
 }
 
-footer{
+footer {
     padding: 5px;
     text-align: center;
+}
+
+.contact-list {
+    list-style-type: none;
+    padding-left: 0;
 }
